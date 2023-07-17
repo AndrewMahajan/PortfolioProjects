@@ -1,16 +1,17 @@
+/*
+Covid 19 Data Exploration 
 
+Skills used in queries: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+*/
+
+--Select Data that we are going to be using
 SELECT * 
 FROM PortfolioProject..CovidDeaths
 Where continent is not null
 order by 3,4
 
 
---SELECT * 
---FROM PortfolioProject..CovidVaccinations
---order by 3,4
-
---Select Data that we are going to be using
 SELECT location,date,total_cases,new_cases,total_deaths,population
 FROM PortfolioProject..CovidDeaths
 Where continent is not null
@@ -47,7 +48,7 @@ Where continent is not null
 Group by location
 order by TotalDeathCount desc
 
--- LET'S BREAK THINGS DOWN BY CONTINENT
+-- BREAKDOWN BY CONTINENT
 
 --Showing the continents with the highest death count per population
 
