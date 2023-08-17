@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Covid-19 Portfolio Project
 
 In this project I created SQL queries to analyze Covid-19 Data and answer important questions such as:
 
