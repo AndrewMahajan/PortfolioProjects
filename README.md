@@ -10,4 +10,10 @@ In this project I created SQL queries to analyze Covid-19 Data and answer import
 
 -What percentage of the population that has recieved at least one Covid Vaccine?
 
-Thanks for viewing!
+I also created the Below dashboard in Tableau to vizulaize the data
+
+![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/c89bf900-ed27-421d-a5f0-57a4c2f26739)
+
+
+
+
