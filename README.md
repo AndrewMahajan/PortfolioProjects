@@ -17,7 +17,7 @@ In this project I created [SQL queries](https://github.com/AndrewMahajan/Portfol
 ![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/c89bf900-ed27-421d-a5f0-57a4c2f26739)
 
 
-##Global Numbers
+## Global Numbers
 
 ![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/48295cc9-efa6-4443-8ea8-ee41e68875ac)
 
