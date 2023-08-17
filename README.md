@@ -21,5 +21,10 @@ In this project I created [SQL queries](https://github.com/AndrewMahajan/Portfol
 
 ![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/48295cc9-efa6-4443-8ea8-ee41e68875ac)
 
-As of April of 2021, the global numbers show total cases at 150 million, with total deaths at 3.1 million resulting in a death percetage of 2.11 globally.
+As of April of 2021, the global numbers show total cases at 150 million, with total deaths at 3.1 million which repreents a total death percetage of 2.11%.
 
+## Total Deaths Per Continent
+
+![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/9112528d-5c7f-4864-8680-11c1440076be)
+
+Looking at the stats in a deeper level, Europe had the highest overall deaths with just above 1 million deaths followed by North America at around 850 thousand.
