@@ -1,5 +1,7 @@
 # Covid-19 Portfolio Project
 
+## Overview
+
 In this project I created [SQL queries](https://github.com/AndrewMahajan/PortfolioProjects/blob/main/Covid-19%20SQL%20Queries) to analyze Covid-19 Data and answer important questions such as:
 
 -Which counties has the highest infection rate?
