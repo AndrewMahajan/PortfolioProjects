@@ -28,3 +28,16 @@ As of April of 2021, the global numbers show total cases at 150 million, with to
 ![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/9112528d-5c7f-4864-8680-11c1440076be)
 
 Looking at the stats in a deeper level, Europe had the highest overall deaths with just above 1 million deaths followed by North America at around 850 thousand.
+
+## Percentage Infected Per County
+
+![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/3d791966-c8ca-4ef7-a35b-bd3f23156f15)
+
+The above map visuliazation shows the percent infected per county. The darker red and orange areas show countries with a higher infected population and the lighter while the yellow areas show countries with a lower infected population percentage. United states and several parts of Europe show the highest percentage infected.
+
+## Percentage Population Infected Trend
+
+![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/21280b92-d5e0-4d9f-a06b-d2c632e4c92d)
+
+This shows a trend line of the percentage population infected and also forecasts 6 months into the future. As an example, the United States shows a percentage population infected of 8.63% as of April 2021 and 6 months forecasted in the future shows a percentage of 19.11%.
+
