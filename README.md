@@ -2,7 +2,9 @@
 
 ## Overview
 
-In this project I created [SQL queries](https://github.com/AndrewMahajan/PortfolioProjects/blob/main/Covid-19%20SQL%20Queries) to analyze Covid-19 Data and answer important questions such as:
+In this project, I analyzed Covid-19 data from the CDC (February 2020-April 2021) and I created [SQL queries](https://github.com/AndrewMahajan/PortfolioProjects/blob/main/Covid-19%20SQL%20Queries) to analyze data.
+
+I wanted to answer important questions such as:
 
 -Which counties has the highest infection rate?
 
