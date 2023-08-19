@@ -12,7 +12,6 @@ I wanted to answer important questions such as:
 
 * What Countries have the Highest Death Count per Population?
 
-* What percentage of the population that has recieved at least one Covid Vaccine?
 
 
 
