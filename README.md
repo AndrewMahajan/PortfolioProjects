@@ -6,13 +6,13 @@ In this project, I analyzed Covid-19 data from the CDC (February 2020-April 2021
 
 I wanted to answer important questions such as:
 
--Which counties has the highest infection rate?
+* Which counties has the highest infection rate?
 
--What is the likelihood of dying if you contract covid in your country?
+* What is the likelihood of dying if you contract covid in your country?
 
--What Countries have the Highest Death Count per Population?
+* What Countries have the Highest Death Count per Population?
 
--What percentage of the population that has recieved at least one Covid Vaccine?
+* What percentage of the population that has recieved at least one Covid Vaccine?
 
 
 
