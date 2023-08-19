@@ -15,7 +15,7 @@ I wanted to answer important questions such as:
 
 
 
- The below dashboard was created in [Tableau](https://public.tableau.com/app/profile/andrew.mahajan/viz/Covid-19Dashboard_16923146435660/Dashboard1url) to visualize the data
+ The below dashboard was created in [Tableau](https://public.tableau.com/app/profile/andrew.mahajan/viz/Covid-19Dashboard_16923146435660/Dashboard1url) to visualize the data.
 
 ![image](https://github.com/AndrewMahajan/PortfolioProjects/assets/1800480/101f6cc1-7d30-4a1c-a723-d39c3577743f)
 
