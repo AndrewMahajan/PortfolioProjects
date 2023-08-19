@@ -1,4 +1,4 @@
-# Covid-19 Portfolio Project
+# Covid-19 SQL/Tableau Portfolio Project
 
 ## Overview
 
